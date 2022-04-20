@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لقب</string>
+    <string name="hello_world">مرحبا بالعالم</string>
+    <string name="phone_language">لغة الهاتف (%s)</string>
+</resources>

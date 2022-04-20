@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">शीर्षक</string>
+    <string name="hello_world">नमस्ते दुनिया</string>
+    <string name="phone_language">फ़ोन की भाषा (%s)</string>
+</resources>

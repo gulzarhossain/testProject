@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">শিরোনাম</string>
+    <string name="hello_world">ওহে বিশ্ব</string>
+    <string name="phone_language">মোবাইলের ভাষা (%s)</string>
+</resources>
